@@ -5,5 +5,4 @@ The website is publish in https://wlgc61.netlify.com/.
 ## About developer
 
 Yuan-Lin, Lin.  
-Minecraft Server Owner, Spigot plugin develper.  
 Studying in Zhejian University, major in Computer Science and Technology.  
